@@ -1,0 +1,150 @@
+{"id": 1, "kind": "margin", "question": "What was Nxp Semiconductors (NXPI)'s operating margin in fiscal 2020, as a percent of revenue?", "gold": 4.8537, "unit": "pct"}
+{"id": 2, "kind": "margin_change", "question": "By how many percentage points did Micron Technology (MU)'s gross margin change from fiscal 2017 to fiscal 2018? (Negative if it fell.)", "gold": 17.3577, "unit": "pp"}
+{"id": 3, "kind": "lookup", "question": "What was Photronics (PLAB)'s research and development expense in fiscal 2019, in US dollars?", "gold": 16394000.0, "unit": "usd"}
+{"id": 4, "kind": "margin", "question": "What was Monolithic Power Systems (MPWR)'s operating margin in fiscal 2018, as a percent of revenue?", "gold": 19.4869, "unit": "pct"}
+{"id": 5, "kind": "margin", "question": "What was Impinj (PI)'s operating margin in fiscal 2023, as a percent of revenue?", "gold": -14.1393, "unit": "pct"}
+{"id": 6, "kind": "margin", "question": "What was Lattice Semiconductor (LSCC)'s gross margin in fiscal 2018, as a percent of revenue?", "gold": 55.025, "unit": "pct"}
+{"id": 7, "kind": "growth", "question": "By what percent did Nxp Semiconductors (NXPI)'s revenue change from fiscal 2022 to fiscal 2023?", "gold": 0.5377, "unit": "pct"}
+{"id": 8, "kind": "growth", "question": "By what percent did Photronics (PLAB)'s operating income change from fiscal 2018 to fiscal 2019?", "gold": -20.5799, "unit": "pct"}
+{"id": 9, "kind": "ratio", "question": "What was Microchip Technology (MCHP)'s R&D expense as a percent of revenue in fiscal 2023?", "gold": 13.252, "unit": "pct"}
+{"id": 10, "kind": "margin_change", "question": "By how many percentage points did Impinj (PI)'s gross margin change from fiscal 2018 to fiscal 2019? (Negative if it fell.)", "gold": 0.8945, "unit": "pp"}
+{"id": 11, "kind": "lookup", "question": "What was Macom Technology Solutions (MTSI)'s net income in fiscal 2024, in US dollars?", "gold": 76859000.0, "unit": "usd"}
+{"id": 12, "kind": "margin_change", "question": "By how many percentage points did Impinj (PI)'s gross margin change from fiscal 2021 to fiscal 2022? (Negative if it fell.)", "gold": 1.4813, "unit": "pp"}
+{"id": 13, "kind": "margin", "question": "What was Nvidia (NVDA)'s gross margin in fiscal 2022, as a percent of revenue?", "gold": 64.929, "unit": "pct"}
+{"id": 14, "kind": "lookup", "question": "What was Monolithic Power Systems (MPWR)'s total revenue in fiscal 2020, in US dollars?", "gold": 844452000.0, "unit": "usd"}
+{"id": 15, "kind": "margin", "question": "What was Skyworks Solutions (SWKS)'s operating margin in fiscal 2019, as a percent of revenue?", "gold": 28.1924, "unit": "pct"}
+{"id": 16, "kind": "lookup", "question": "What was Formfactor (FORM)'s net income in fiscal 2018, in US dollars?", "gold": 104036000.0, "unit": "usd"}
+{"id": 17, "kind": "growth", "question": "By what percent did Maxlinear (MXL)'s operating income change from fiscal 2021 to fiscal 2022?", "gold": 176.2557, "unit": "pct"}
+{"id": 18, "kind": "growth", "question": "By what percent did Allegro Microsystems (ALGM)'s revenue change from fiscal 2022 to fiscal 2023?", "gold": 26.6666, "unit": "pct"}
+{"id": 19, "kind": "margin", "question": "What was Wolfspeed (WOLF)'s operating margin in fiscal 2024, as a percent of revenue?", "gold": -55.166, "unit": "pct"}
+{"id": 20, "kind": "growth", "question": "By what percent did Advanced Micro Devices (AMD)'s revenue change from fiscal 2021 to fiscal 2022?", "gold": 43.6108, "unit": "pct"}
+{"id": 21, "kind": "margin", "question": "What was Monolithic Power Systems (MPWR)'s operating margin in fiscal 2022, as a percent of revenue?", "gold": 29.3613, "unit": "pct"}
+{"id": 22, "kind": "ratio", "question": "What was Ambarella (AMBA)'s R&D expense as a percent of revenue in fiscal 2019?", "gold": 56.2344, "unit": "pct"}
+{"id": 23, "kind": "compare", "question": "Among Semtech (SMTC), Ceva (CEVA), Impinj (PI), which had the highest gross margin in fiscal 2025, and what was it (percent of revenue)?", "gold": 87.0819, "unit": "pct"}
+{"id": 24, "kind": "margin", "question": "What was Semtech (SMTC)'s gross margin in fiscal 2025, as a percent of revenue?", "gold": 50.2073, "unit": "pct"}
+{"id": 25, "kind": "growth", "question": "By what percent did On Semiconductor (ON)'s revenue change from fiscal 2021 to fiscal 2022?", "gold": 23.5378, "unit": "pct"}
+{"id": 26, "kind": "margin_change", "question": "By how many percentage points did Synaptics (SYNA)'s gross margin change from fiscal 2021 to fiscal 2022? (Negative if it fell.)", "gold": 8.5849, "unit": "pp"}
+{"id": 27, "kind": "growth", "question": "By what percent did Cohu (COHU)'s revenue change from fiscal 2020 to fiscal 2021?", "gold": 39.4975, "unit": "pct"}
+{"id": 28, "kind": "margin", "question": "What was Ambarella (AMBA)'s operating margin in fiscal 2024, as a percent of revenue?", "gold": -68.2462, "unit": "pct"}
+{"id": 29, "kind": "growth", "question": "By what percent did Cohu (COHU)'s revenue change from fiscal 2023 to fiscal 2024?", "gold": -36.8592, "unit": "pct"}
+{"id": 30, "kind": "compare", "question": "Among Kulicke & Soffa Industries (KLIC), Skyworks Solutions (SWKS), On Semiconductor (ON), which had the highest gross margin in fiscal 2018, and what was it (percent of revenue)?", "gold": 50.4317, "unit": "pct"}
+{"id": 31, "kind": "ratio", "question": "What was Impinj (PI)'s R&D expense as a percent of revenue in fiscal 2023?", "gold": 28.797, "unit": "pct"}
+{"id": 32, "kind": "lookup", "question": "What was Amkor Technology (AMKR)'s net income in fiscal 2024, in US dollars?", "gold": 354012000.0, "unit": "usd"}
+{"id": 33, "kind": "growth", "question": "By what percent did Cirrus Logic (CRUS)'s operating income change from fiscal 2019 to fiscal 2020?", "gold": 72.1561, "unit": "pct"}
+{"id": 34, "kind": "margin", "question": "What was Skyworks Solutions (SWKS)'s operating margin in fiscal 2018, as a percent of revenue?", "gold": 34.1081, "unit": "pct"}
+{"id": 35, "kind": "growth", "question": "By what percent did On Semiconductor (ON)'s operating income change from fiscal 2023 to fiscal 2024?", "gold": -30.3699, "unit": "pct"}
+{"id": 36, "kind": "margin_change", "question": "By how many percentage points did Ultra Clean (UCTT)'s gross margin change from fiscal 2019 to fiscal 2020? (Negative if it fell.)", "gold": 2.4056, "unit": "pp"}
+{"id": 37, "kind": "compare", "question": "Among Nvidia (NVDA), Ichor (ICHR), Cirrus Logic (CRUS), which had the highest gross margin in fiscal 2018, and what was it (percent of revenue)?", "gold": 59.9341, "unit": "pct"}
+{"id": 38, "kind": "margin_change", "question": "By how many percentage points did Rambus (RMBS)'s gross margin change from fiscal 2018 to fiscal 2019? (Negative if it fell.)", "gold": 0.6548, "unit": "pp"}
+{"id": 39, "kind": "lookup", "question": "What was Alpha & Omega Semiconductor (AOSL)'s research and development expense in fiscal 2018, in US dollars?", "gold": 37344000.0, "unit": "usd"}
+{"id": 40, "kind": "ratio", "question": "What was Cirrus Logic (CRUS)'s R&D expense as a percent of revenue in fiscal 2023?", "gold": 24.1572, "unit": "pct"}
+{"id": 41, "kind": "margin", "question": "What was Ultra Clean (UCTT)'s gross margin in fiscal 2019, as a percent of revenue?", "gold": 18.4581, "unit": "pct"}
+{"id": 42, "kind": "compare", "question": "Among Broadcom (AVGO), Applied Materials /De (AMAT), Ultra Clean (UCTT), which had the highest gross margin in fiscal 2024, and what was it (percent of revenue)?", "gold": 63.0337, "unit": "pct"}
+{"id": 43, "kind": "margin_change", "question": "By how many percentage points did Marvell Technology (MRVL)'s gross margin change from fiscal 2023 to fiscal 2024? (Negative if it fell.)", "gold": -8.8244, "unit": "pp"}
+{"id": 44, "kind": "lookup", "question": "What was Intel (INTC)'s net income in fiscal 2022, in US dollars?", "gold": 8014000000.0, "unit": "usd"}
+{"id": 45, "kind": "margin", "question": "What was Advanced Micro Devices (AMD)'s operating margin in fiscal 2024, as a percent of revenue?", "gold": 7.3686, "unit": "pct"}
+{"id": 46, "kind": "lookup", "question": "What was Entegris (ENTG)'s research and development expense in fiscal 2025, in US dollars?", "gold": 329000000.0, "unit": "usd"}
+{"id": 47, "kind": "growth", "question": "By what percent did Applied Materials /De (AMAT)'s operating income change from fiscal 2022 to fiscal 2023?", "gold": -1.7206, "unit": "pct"}
+{"id": 48, "kind": "margin", "question": "What was Sitime (SITM)'s gross margin in fiscal 2023, as a percent of revenue?", "gold": 57.0083, "unit": "pct"}
+{"id": 49, "kind": "compare", "question": "Among Entegris (ENTG), Nvidia (NVDA), Cirrus Logic (CRUS), which had the highest gross margin in fiscal 2019, and what was it (percent of revenue)?", "gold": 61.2069, "unit": "pct"}
+{"id": 50, "kind": "compare", "question": "Among Broadcom (AVGO), Marvell Technology (MRVL), Alpha & Omega Semiconductor (AOSL), which had the highest gross margin in fiscal 2025, and what was it (percent of revenue)?", "gold": 67.7665, "unit": "pct"}
+{"id": 51, "kind": "growth", "question": "By what percent did Nvidia (NVDA)'s revenue change from fiscal 2023 to fiscal 2024?", "gold": 125.8545, "unit": "pct"}
+{"id": 52, "kind": "margin_change", "question": "By how many percentage points did Applied Materials /De (AMAT)'s gross margin change from fiscal 2023 to fiscal 2024? (Negative if it fell.)", "gold": 0.7552, "unit": "pp"}
+{"id": 53, "kind": "margin", "question": "What was Entegris (ENTG)'s gross margin in fiscal 2022, as a percent of revenue?", "gold": 42.5472, "unit": "pct"}
+{"id": 54, "kind": "lookup", "question": "What was Intel (INTC)'s total revenue in fiscal 2020, in US dollars?", "gold": 77867000000.0, "unit": "usd"}
+{"id": 55, "kind": "growth", "question": "By what percent did Photronics (PLAB)'s operating income change from fiscal 2021 to fiscal 2022?", "gold": 124.0688, "unit": "pct"}
+{"id": 56, "kind": "lookup", "question": "What was Applied Materials /De (AMAT)'s research and development expense in fiscal 2019, in US dollars?", "gold": 2054000000.0, "unit": "usd"}
+{"id": 57, "kind": "ratio", "question": "What was Nve (NVEC)'s R&D expense as a percent of revenue in fiscal 2018?", "gold": 12.3993, "unit": "pct"}
+{"id": 58, "kind": "margin", "question": "What was Applied Materials /De (AMAT)'s operating margin in fiscal 2021, as a percent of revenue?", "gold": 29.8704, "unit": "pct"}
+{"id": 59, "kind": "lookup", "question": "What was Teradyne (TER)'s research and development expense in fiscal 2021, in US dollars?", "gold": 427609000.0, "unit": "usd"}
+{"id": 60, "kind": "growth", "question": "By what percent did Formfactor (FORM)'s revenue change from fiscal 2024 to fiscal 2025?", "gold": 2.8017, "unit": "pct"}
+{"id": 61, "kind": "margin_change", "question": "By how many percentage points did Skyworks Solutions (SWKS)'s gross margin change from fiscal 2022 to fiscal 2023? (Negative if it fell.)", "gold": -3.3201, "unit": "pp"}
+{"id": 62, "kind": "ratio", "question": "What was Entegris (ENTG)'s R&D expense as a percent of revenue in fiscal 2019?", "gold": 7.6138, "unit": "pct"}
+{"id": 63, "kind": "ratio", "question": "What was Skyworks Solutions (SWKS)'s R&D expense as a percent of revenue in fiscal 2025?", "gold": 19.2199, "unit": "pct"}
+{"id": 64, "kind": "margin", "question": "What was Monolithic Power Systems (MPWR)'s operating margin in fiscal 2021, as a percent of revenue?", "gold": 21.7269, "unit": "pct"}
+{"id": 65, "kind": "compare", "question": "Among Texas Instruments (TXN), Cohu (COHU), Veeco Instruments (VECO), which had the highest gross margin in fiscal 2019, and what was it (percent of revenue)?", "gold": 63.7141, "unit": "pct"}
+{"id": 66, "kind": "lookup", "question": "What was Diodes (DIOD)'s research and development expense in fiscal 2018, in US dollars?", "gold": 86286000.0, "unit": "usd"}
+{"id": 67, "kind": "margin", "question": "What was Ichor (ICHR)'s operating margin in fiscal 2021, as a percent of revenue?", "gold": 7.3856, "unit": "pct"}
+{"id": 68, "kind": "margin", "question": "What was Mks (MKSI)'s gross margin in fiscal 2024, as a percent of revenue?", "gold": 47.6297, "unit": "pct"}
+{"id": 69, "kind": "margin", "question": "What was Monolithic Power Systems (MPWR)'s gross margin in fiscal 2019, as a percent of revenue?", "gold": 55.1542, "unit": "pct"}
+{"id": 70, "kind": "compare", "question": "Among Mks (MKSI), Teradyne (TER), Cirrus Logic (CRUS), which had the highest gross margin in fiscal 2019, and what was it (percent of revenue)?", "gold": 58.3812, "unit": "pct"}
+{"id": 71, "kind": "margin_change", "question": "By how many percentage points did On Semiconductor (ON)'s gross margin change from fiscal 2019 to fiscal 2020? (Negative if it fell.)", "gold": -3.1164, "unit": "pp"}
+{"id": 72, "kind": "margin_change", "question": "By how many percentage points did Mks (MKSI)'s gross margin change from fiscal 2020 to fiscal 2021? (Negative if it fell.)", "gold": 1.7582, "unit": "pp"}
+{"id": 73, "kind": "margin", "question": "What was Veeco Instruments (VECO)'s operating margin in fiscal 2020, as a percent of revenue?", "gold": 4.9685, "unit": "pct"}
+{"id": 74, "kind": "lookup", "question": "What was On Semiconductor (ON)'s total revenue in fiscal 2020, in US dollars?", "gold": 5255000000.0, "unit": "usd"}
+{"id": 75, "kind": "growth", "question": "By what percent did Lam Research (LRCX)'s revenue change from fiscal 2023 to fiscal 2024?", "gold": -14.477, "unit": "pct"}
+{"id": 76, "kind": "lookup", "question": "What was Nvidia (NVDA)'s total revenue in fiscal 2024, in US dollars?", "gold": 60922000000.0, "unit": "usd"}
+{"id": 77, "kind": "growth", "question": "By what percent did Lam Research (LRCX)'s revenue change from fiscal 2021 to fiscal 2022?", "gold": 17.7825, "unit": "pct"}
+{"id": 78, "kind": "lookup", "question": "What was Nve (NVEC)'s research and development expense in fiscal 2024, in US dollars?", "gold": 2731434.0, "unit": "usd"}
+{"id": 79, "kind": "lookup", "question": "What was Sitime (SITM)'s research and development expense in fiscal 2018, in US dollars?", "gold": 22775000.0, "unit": "usd"}
+{"id": 80, "kind": "lookup", "question": "What was Applied Materials /De (AMAT)'s net income in fiscal 2024, in US dollars?", "gold": 7177000000.0, "unit": "usd"}
+{"id": 81, "kind": "ratio", "question": "What was Advanced Micro Devices (AMD)'s R&D expense as a percent of revenue in fiscal 2021?", "gold": 17.3117, "unit": "pct"}
+{"id": 82, "kind": "lookup", "question": "What was Lattice Semiconductor (LSCC)'s research and development expense in fiscal 2018, in US dollars?", "gold": 82449000.0, "unit": "usd"}
+{"id": 83, "kind": "ratio", "question": "What was Mks (MKSI)'s R&D expense as a percent of revenue in fiscal 2024?", "gold": 7.5572, "unit": "pct"}
+{"id": 84, "kind": "margin_change", "question": "By how many percentage points did Formfactor (FORM)'s gross margin change from fiscal 2024 to fiscal 2025? (Negative if it fell.)", "gold": -0.9808, "unit": "pp"}
+{"id": 85, "kind": "growth", "question": "By what percent did Axcelis Technologies (ACLS)'s revenue change from fiscal 2024 to fiscal 2025?", "gold": -17.5679, "unit": "pct"}
+{"id": 86, "kind": "margin", "question": "What was Impinj (PI)'s operating margin in fiscal 2019, as a percent of revenue?", "gold": -14.1727, "unit": "pct"}
+{"id": 87, "kind": "margin_change", "question": "By how many percentage points did Allegro Microsystems (ALGM)'s gross margin change from fiscal 2024 to fiscal 2025? (Negative if it fell.)", "gold": -10.4019, "unit": "pp"}
+{"id": 88, "kind": "margin", "question": "What was Photronics (PLAB)'s operating margin in fiscal 2023, as a percent of revenue?", "gold": 28.3664, "unit": "pct"}
+{"id": 89, "kind": "lookup", "question": "What was Formfactor (FORM)'s total revenue in fiscal 2019, in US dollars?", "gold": 589464000.0, "unit": "usd"}
+{"id": 90, "kind": "ratio", "question": "What was Teradyne (TER)'s R&D expense as a percent of revenue in fiscal 2023?", "gold": 15.6219, "unit": "pct"}
+{"id": 91, "kind": "lookup", "question": "What was Sitime (SITM)'s research and development expense in fiscal 2022, in US dollars?", "gold": 90288000.0, "unit": "usd"}
+{"id": 92, "kind": "ratio", "question": "What was Diodes (DIOD)'s R&D expense as a percent of revenue in fiscal 2019?", "gold": 7.0863, "unit": "pct"}
+{"id": 93, "kind": "lookup", "question": "What was Allegro Microsystems (ALGM)'s net income in fiscal 2022, in US dollars?", "gold": 119407000.0, "unit": "usd"}
+{"id": 94, "kind": "compare", "question": "Among Veeco Instruments (VECO), On Semiconductor (ON), Kla (KLAC), which had the highest gross margin in fiscal 2018, and what was it (percent of revenue)?", "gold": 64.1777, "unit": "pct"}
+{"id": 95, "kind": "margin_change", "question": "By how many percentage points did Nxp Semiconductors (NXPI)'s gross margin change from fiscal 2017 to fiscal 2018? (Negative if it fell.)", "gold": 1.6652, "unit": "pp"}
+{"id": 96, "kind": "ratio", "question": "What was Wolfspeed (WOLF)'s R&D expense as a percent of revenue in fiscal 2020?", "gold": 32.2923, "unit": "pct"}
+{"id": 97, "kind": "compare", "question": "Among On Semiconductor (ON), Nxp Semiconductors (NXPI), Analog Devices (ADI), which had the highest gross margin in fiscal 2020, and what was it (percent of revenue)?", "gold": 65.8654, "unit": "pct"}
+{"id": 98, "kind": "ratio", "question": "What was Teradyne (TER)'s R&D expense as a percent of revenue in fiscal 2021?", "gold": 11.548, "unit": "pct"}
+{"id": 99, "kind": "compare", "question": "Among Nve (NVEC), Semtech (SMTC), Entegris (ENTG), which had the highest gross margin in fiscal 2024, and what was it (percent of revenue)?", "gold": 77.2766, "unit": "pct"}
+{"id": 100, "kind": "lookup", "question": "What was Photronics (PLAB)'s net income in fiscal 2022, in US dollars?", "gold": 118786000.0, "unit": "usd"}
+{"id": 101, "kind": "ratio", "question": "What was Maxlinear (MXL)'s R&D expense as a percent of revenue in fiscal 2023?", "gold": 38.8747, "unit": "pct"}
+{"id": 102, "kind": "lookup", "question": "What was Analog Devices (ADI)'s research and development expense in fiscal 2025, in US dollars?", "gold": 1766001000.0, "unit": "usd"}
+{"id": 103, "kind": "ratio", "question": "What was Wolfspeed (WOLF)'s R&D expense as a percent of revenue in fiscal 2025?", "gold": 23.1125, "unit": "pct"}
+{"id": 104, "kind": "compare", "question": "Among Alpha & Omega Semiconductor (AOSL), Ceva (CEVA), Teradyne (TER), which had the highest gross margin in fiscal 2022, and what was it (percent of revenue)?", "gold": 87.4518, "unit": "pct"}
+{"id": 105, "kind": "margin_change", "question": "By how many percentage points did Maxlinear (MXL)'s gross margin change from fiscal 2019 to fiscal 2020? (Negative if it fell.)", "gold": -8.4045, "unit": "pp"}
+{"id": 106, "kind": "growth", "question": "By what percent did Monolithic Power Systems (MPWR)'s revenue change from fiscal 2024 to fiscal 2025?", "gold": 26.431, "unit": "pct"}
+{"id": 107, "kind": "lookup", "question": "What was Semtech (SMTC)'s research and development expense in fiscal 2019, in US dollars?", "gold": 109047000.0, "unit": "usd"}
+{"id": 108, "kind": "margin", "question": "What was Micron Technology (MU)'s operating margin in fiscal 2021, as a percent of revenue?", "gold": 22.6782, "unit": "pct"}
+{"id": 109, "kind": "lookup", "question": "What was Texas Instruments (TXN)'s total revenue in fiscal 2023, in US dollars?", "gold": 17519000000.0, "unit": "usd"}
+{"id": 110, "kind": "margin", "question": "What was Alpha & Omega Semiconductor (AOSL)'s gross margin in fiscal 2024, as a percent of revenue?", "gold": 26.1562, "unit": "pct"}
+{"id": 111, "kind": "margin_change", "question": "By how many percentage points did Lattice Semiconductor (LSCC)'s gross margin change from fiscal 2021 to fiscal 2022? (Negative if it fell.)", "gold": 8.3492, "unit": "pp"}
+{"id": 112, "kind": "margin", "question": "What was Ceva (CEVA)'s gross margin in fiscal 2025, as a percent of revenue?", "gold": 87.0819, "unit": "pct"}
+{"id": 113, "kind": "margin_change", "question": "By how many percentage points did Monolithic Power Systems (MPWR)'s gross margin change from fiscal 2023 to fiscal 2024? (Negative if it fell.)", "gold": -0.7568, "unit": "pp"}
+{"id": 114, "kind": "margin_change", "question": "By how many percentage points did Photronics (PLAB)'s gross margin change from fiscal 2021 to fiscal 2022? (Negative if it fell.)", "gold": 10.5154, "unit": "pp"}
+{"id": 115, "kind": "margin_change", "question": "By how many percentage points did Texas Instruments (TXN)'s gross margin change from fiscal 2018 to fiscal 2019? (Negative if it fell.)", "gold": -1.3961, "unit": "pp"}
+{"id": 116, "kind": "lookup", "question": "What was Cohu (COHU)'s research and development expense in fiscal 2018, in US dollars?", "gold": 56434000.0, "unit": "usd"}
+{"id": 117, "kind": "margin", "question": "What was Impinj (PI)'s gross margin in fiscal 2022, as a percent of revenue?", "gold": 53.4849, "unit": "pct"}
+{"id": 118, "kind": "lookup", "question": "What was Power Integrations (POWI)'s net income in fiscal 2020, in US dollars?", "gold": 71176000.0, "unit": "usd"}
+{"id": 119, "kind": "ratio", "question": "What was Mks (MKSI)'s R&D expense as a percent of revenue in fiscal 2020?", "gold": 7.4249, "unit": "pct"}
+{"id": 120, "kind": "compare", "question": "Among Wolfspeed (WOLF), Amkor Technology (AMKR), Nxp Semiconductors (NXPI), which had the highest gross margin in fiscal 2018, and what was it (percent of revenue)?", "gold": 51.568, "unit": "pct"}
+{"id": 121, "kind": "ratio", "question": "What was Macom Technology Solutions (MTSI)'s R&D expense as a percent of revenue in fiscal 2021?", "gold": 22.8768, "unit": "pct"}
+{"id": 122, "kind": "growth", "question": "By what percent did Lam Research (LRCX)'s operating income change from fiscal 2018 to fiscal 2019?", "gold": -23.2959, "unit": "pct"}
+{"id": 123, "kind": "margin", "question": "What was Skyworks Solutions (SWKS)'s gross margin in fiscal 2023, as a percent of revenue?", "gold": 44.156, "unit": "pct"}
+{"id": 124, "kind": "growth", "question": "By what percent did Applied Materials /De (AMAT)'s operating income change from fiscal 2021 to fiscal 2022?", "gold": 13.0498, "unit": "pct"}
+{"id": 125, "kind": "compare", "question": "Among Sitime (SITM), Entegris (ENTG), Rambus (RMBS), which had the highest gross margin in fiscal 2023, and what was it (percent of revenue)?", "gold": 77.5714, "unit": "pct"}
+{"id": 126, "kind": "growth", "question": "By what percent did Marvell Technology (MRVL)'s revenue change from fiscal 2024 to fiscal 2025?", "gold": 4.7134, "unit": "pct"}
+{"id": 127, "kind": "lookup", "question": "What was Macom Technology Solutions (MTSI)'s net income in fiscal 2018, in US dollars?", "gold": -139977000.0, "unit": "usd"}
+{"id": 128, "kind": "margin", "question": "What was Credo Technology Group (CRDO)'s operating margin in fiscal 2020, as a percent of revenue?", "gold": 3.8469, "unit": "pct"}
+{"id": 129, "kind": "lookup", "question": "What was Power Integrations (POWI)'s research and development expense in fiscal 2018, in US dollars?", "gold": 70580000.0, "unit": "usd"}
+{"id": 130, "kind": "margin_change", "question": "By how many percentage points did Teradyne (TER)'s gross margin change from fiscal 2021 to fiscal 2022? (Negative if it fell.)", "gold": -0.4131, "unit": "pp"}
+{"id": 131, "kind": "margin_change", "question": "By how many percentage points did Microchip Technology (MCHP)'s gross margin change from fiscal 2020 to fiscal 2021? (Negative if it fell.)", "gold": 0.6576, "unit": "pp"}
+{"id": 132, "kind": "lookup", "question": "What was Teradyne (TER)'s total revenue in fiscal 2022, in US dollars?", "gold": 3155045000.0, "unit": "usd"}
+{"id": 133, "kind": "lookup", "question": "What was Sitime (SITM)'s net income in fiscal 2024, in US dollars?", "gold": -93601000.0, "unit": "usd"}
+{"id": 134, "kind": "margin", "question": "What was Rambus (RMBS)'s gross margin in fiscal 2018, as a percent of revenue?", "gold": 76.773, "unit": "pct"}
+{"id": 135, "kind": "lookup", "question": "What was Amkor Technology (AMKR)'s research and development expense in fiscal 2018, in US dollars?", "gold": 157182000.0, "unit": "usd"}
+{"id": 136, "kind": "lookup", "question": "What was Veeco Instruments (VECO)'s total revenue in fiscal 2022, in US dollars?", "gold": 646137000.0, "unit": "usd"}
+{"id": 137, "kind": "ratio", "question": "What was Maxlinear (MXL)'s R&D expense as a percent of revenue in fiscal 2019?", "gold": 31.0057, "unit": "pct"}
+{"id": 138, "kind": "margin_change", "question": "By how many percentage points did Power Integrations (POWI)'s gross margin change from fiscal 2019 to fiscal 2020? (Negative if it fell.)", "gold": -0.8457, "unit": "pp"}
+{"id": 139, "kind": "ratio", "question": "What was Ultra Clean (UCTT)'s R&D expense as a percent of revenue in fiscal 2025?", "gold": 1.5579, "unit": "pct"}
+{"id": 140, "kind": "margin_change", "question": "By how many percentage points did Ceva (CEVA)'s gross margin change from fiscal 2018 to fiscal 2019? (Negative if it fell.)", "gold": -1.3861, "unit": "pp"}
+{"id": 141, "kind": "growth", "question": "By what percent did Silicon Laboratories (SLAB)'s revenue change from fiscal 2023 to fiscal 2024?", "gold": -25.295, "unit": "pct"}
+{"id": 142, "kind": "compare", "question": "Among Synaptics (SYNA), Indie Semiconductor (INDI), Micron Technology (MU), which had the highest gross margin in fiscal 2021, and what was it (percent of revenue)?", "gold": 45.6256, "unit": "pct"}
+{"id": 143, "kind": "growth", "question": "By what percent did Amkor Technology (AMKR)'s operating income change from fiscal 2017 to fiscal 2018?", "gold": -36.3456, "unit": "pct"}
+{"id": 144, "kind": "ratio", "question": "What was Monolithic Power Systems (MPWR)'s R&D expense as a percent of revenue in fiscal 2018?", "gold": 16.047, "unit": "pct"}
+{"id": 145, "kind": "compare", "question": "Among Cirrus Logic (CRUS), Diodes (DIOD), Analog Devices (ADI), which had the highest gross margin in fiscal 2024, and what was it (percent of revenue)?", "gold": 57.0834, "unit": "pct"}
+{"id": 146, "kind": "margin_change", "question": "By how many percentage points did Credo Technology Group (CRDO)'s gross margin change from fiscal 2020 to fiscal 2021? (Negative if it fell.)", "gold": -20.4303, "unit": "pp"}
+{"id": 147, "kind": "lookup", "question": "What was Applied Materials /De (AMAT)'s total revenue in fiscal 2018, in US dollars?", "gold": 16705000000.0, "unit": "usd"}
+{"id": 148, "kind": "growth", "question": "By what percent did Alpha & Omega Semiconductor (AOSL)'s revenue change from fiscal 2023 to fiscal 2024?", "gold": -4.9249, "unit": "pct"}
+{"id": 149, "kind": "lookup", "question": "What was Synaptics (SYNA)'s total revenue in fiscal 2024, in US dollars?", "gold": 959400000.0, "unit": "usd"}
+{"id": 150, "kind": "margin_change", "question": "By how many percentage points did Intel (INTC)'s gross margin change from fiscal 2017 to fiscal 2018? (Negative if it fell.)", "gold": -0.5631, "unit": "pp"}
