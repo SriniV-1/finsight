@@ -86,8 +86,11 @@ def check(answer, sources):
     problems = []
     # models write citations as 【S1】 and use narrow no-break spaces; normalize before checking
     answer = answer.replace("【", "[").replace("】", "]").replace("\u202f", " ").replace("\xa0", " ").replace("**", "")
+    answer = re.sub(r"[\u2011\u2012\u2013\u2212](?=\$?\d)", "-", answer)  # unicode minus signs
     for sentence in re.split(r"(?<=[.!?])\s+|\n+", answer):
         plain = CITE.sub("", sentence).strip()
+        if plain.upper().startswith("ANSWER:"):
+            continue  # the machine-readable answer line repeats a claim already made and checked above
         if len(plain.split()) < 4 and not numbers(plain):
             continue  # headings, "ANSWER:" stubs and fragments are not claims
         nums = numbers(plain)

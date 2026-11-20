@@ -77,3 +77,7 @@ def test_forecast_features_only_use_the_past():
 
 def test_cite_accepts_fullwidth_brackets_and_nbsp():
     assert cite.check("Operating margin was **4.85 %** of revenue in fiscal 2020【S1】.", {1: "m\n4.85369"}) == []
+
+
+def test_cite_reads_unicode_minus():
+    assert cite.check("Operating margin was ‑14.14 percent in fiscal 2023 [S1].", {1: "m\n-14.1393"}) == []

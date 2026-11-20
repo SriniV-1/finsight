@@ -57,10 +57,10 @@ def run(system, limit):
                     time.sleep(30)  # per-minute limit: wait it out
                     continue
                 print(f"stopped at q{q['id']}: {type(e).__name__}: {msg[:200]}")  # e.g. daily limit: rerun tomorrow
-                return
+                return False
         if r is None:
             print(f"stopped at q{q['id']}: still rate limited")
-            return
+            return False
         x = parse_answer(r["answer"])
         # Uncited claims are counted the same way for both systems; the baseline has no sources at all.
         problems = cite.check(r["answer"], r.get("sources", {}))
@@ -93,5 +93,14 @@ if __name__ == "__main__":
     ap.add_argument("--system", choices=["agent", "baseline", "stuffed"])
     ap.add_argument("--limit", type=int, default=150)
     ap.add_argument("--report", action="store_true")
+    ap.add_argument("--all", action="store_true", help="agent, then stuffed, then baseline; resumes; stops at the daily limit")
     a = ap.parse_args()
-    report() if a.report else run(a.system, a.limit)
+    if a.report:
+        report()
+    elif a.all:
+        for system in ("agent", "stuffed", "baseline"):
+            if run(system, a.limit) is False:
+                break
+        report()
+    else:
+        run(a.system, a.limit)
